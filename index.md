@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+ST558: Data Science for Statisticians 
 
-Maybe say a some things about yourself.
+Blog by Jordan Tanley
 
-Or maybe what you plan to blog about.
+For the Master of Statistics program at North Carolina State University. 
