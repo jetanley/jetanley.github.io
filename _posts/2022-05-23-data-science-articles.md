@@ -13,10 +13,9 @@ I think the main knowledge points for a data scientist are: 1. strong data manag
 procedures required for hypothesis testing of large samples.
 
 I consider myself a statistician rather than a data scientist for a few reasons. 
-\begin{itemize}
-  \item Most of my schooling solely focused on statistics - nearly fully ignoring the data science concept. 
-  \item My interests lie in biostatistics and clinical trials.
-  \item I find more joy out of the statistical processes than from data cleaning and working with massive datasets.
-\end{itemize}
+* Most of my schooling solely focused on statistics - nearly fully ignoring the data science concept. 
+* My interests lie in biostatistics and clinical trials.
+* I find more joy out of the statistical processes than from data cleaning and working with massive datasets.
+
 
 Final note: I recognize the necessity for data scientists and am excited to learn more about the inner workings of the role. 
