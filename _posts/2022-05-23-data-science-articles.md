@@ -1,4 +1,4 @@
-### Data Science Articles
+## Data Science Articles
 
 
 What do I think being a data scientist is about? Short answer: dealing with the big data. 
