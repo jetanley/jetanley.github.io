@@ -16,7 +16,7 @@ This blog is a requirement for ST 558: Data Science for Statisticians at NCSU. H
 
 ## About me: 
 Two fun facts about me:
-* I'm the crazy plant lady
+* I'm a crazy plant lady
 * If I'm not doing work, I'm out hiking _(see picture)_
 
 ![pic4blog](https://user-images.githubusercontent.com/106108417/170577454-b6757558-9a3d-47a2-a1ae-20c16f0d9798.jpeg)
