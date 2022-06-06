@@ -2,12 +2,14 @@
 title: "Programming Background"
 author: "Jordan Tanley"
 date: "6/6/2022"
-output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+
+```{r}
+library(knitr)
+knitr::opts_chunk$set(fig.path = "../images/")
 ```
+
 
 ## 2nd Blog: Programming Background
 
@@ -25,7 +27,7 @@ plot(iris)
 
 
 
-
+rmarkdown::render("_Rmd/2022-06-06-Second-Blog-Post.Rmd", output_format = "github_document", output_dir = "_posts", output_options = list(html_preview = FALSE))
 
 
 
