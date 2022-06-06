@@ -3,6 +3,11 @@ Programming Background
 Jordan Tanley
 6/6/2022
 
+``` r
+library(knitr)
+knitr::opts_chunk$set(fig.path = "../images/")
+```
+
 ## 2nd Blog: Programming Background
 
 R was the first programming language I learned back in undergrad, which
@@ -25,4 +30,8 @@ it kind of eased me into the world of statistical programming.
 plot(iris)
 ```
 
-![](/Users/jordantanley/Desktop/Graduate/ST%20558/jetanley.github.io/_posts/2022-06-06-Second-Blog-Post_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](../images/unnamed-chunk-2-1.png)<!-- -->
+
+rmarkdown::render("\_Rmd/2022-06-06-Second-Blog-Post.Rmd“,
+output\_format =”github\_document“, output\_dir =”\_posts",
+output\_options = list(html\_preview = FALSE))
