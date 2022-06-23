@@ -3,11 +3,6 @@ Project 1 Blog Post
 Jordan Tanley
 6/23/2022
 
-``` r
-library(knitr)
-knitr::opts_chunk$set(fig.path = "../images/")
-```
-
 ## 3rd Blog: Reflection of Project 1
 
 This project required me to learn how to access and pull data from an
