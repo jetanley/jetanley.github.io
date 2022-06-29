@@ -3,11 +3,6 @@
 Jordan Tanley
 2022-06-29
 
-``` r
-library(knitr)
-knitr::opts_chunk$set(fig.path = "../images/")
-```
-
 # 3rd Blog: Coolest Thing I’ve Learned
 
 One of the coolest things I’ve learned about programming in R is how to
@@ -42,4 +37,4 @@ ggplot(df, aes(x=State, y=Murder)) +
   theme(axis.text.x = element_text(angle=65, vjust=0.6))
 ```
 
-![](../images/unnamed-chunk-6-1.png)<!-- -->
+![](../images/unnamed-chunk-2-1.png)<!-- -->
