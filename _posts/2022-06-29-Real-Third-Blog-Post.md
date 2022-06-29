@@ -7,7 +7,7 @@ Jordan Tanley
 
 One of the coolest things I’ve learned about programming in R is how to
 use
-[`ggplot2`](file:///Users/jordantanley/Downloads/data-visualization%20(2).pdf).
+[`ggplot2`](https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf).
 I’d used the package in the past, but never understood what I was doing.
 Why all the + signs? What are all these weirdly named functions doing?
 Now I have a better grasp of the how and the why behind it all. So
