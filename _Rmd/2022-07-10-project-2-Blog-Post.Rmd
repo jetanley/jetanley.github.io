@@ -43,4 +43,4 @@ I think it's cool to see the several different methods for prediction models all
 # Links
 
 * [Website](https://jetanley.github.io/Tanley-Wood-Project2/)  
-* [Githib Repo](https://github.com/jetanley/Tanley-Wood-Project2-)
+* [Githib Repo](https://github.com/jetanley/Tanley-Wood-Project2)

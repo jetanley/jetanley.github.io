@@ -49,4 +49,4 @@ this is helpful in a lot of fields.
 # Links
 
 -   [Website](https://jetanley.github.io/Tanley-Wood-Project2/)  
--   [Githib Repo](https://github.com/jetanley/Tanley-Wood-Project2-)
+-   [Githib Repo](https://github.com/jetanley/Tanley-Wood-Project2)
